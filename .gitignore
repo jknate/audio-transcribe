@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+audio-transcribe-backend/src/main/resources/application.properties
