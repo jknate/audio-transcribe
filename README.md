@@ -17,11 +17,11 @@ A full-stack application for transcribing audio files, built with a Java backend
 - **Framework**: React
 - **Language**: TypeScript
 - **Styling**: CSS
-- **Build Tool**: Webpack/Vite
+- **Build Tool**: Vite
 
 ### Backend
 - **Language**: Java
-- **Framework**: Spring Boot (likely)
+- **Framework**: Spring Boot
 - **Audio Processing**: Speech-to-text service integration
 
 ## Getting Started
@@ -29,7 +29,7 @@ A full-stack application for transcribing audio files, built with a Java backend
 ### Prerequisites
 
 - Node.js 16+ and npm (for frontend)
-- Java 11+ and Maven/Gradle (for backend)
+- Java 11+ and Maven (for backend)
 
 ### Installation
 
